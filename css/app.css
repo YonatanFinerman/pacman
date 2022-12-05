@@ -1,0 +1,36 @@
+body {
+  background-color: black;
+  color:white;
+  text-align: center;
+}
+
+.cell {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+/* .formLine {
+  margin:10px;
+  padding:10px;
+  background-color: cornflowerblue;
+} */
+
+button{
+  display: block;
+
+}
+.modal{
+  
+  width: 150px;
+  height: 150px;
+  background-color: aquamarine;
+  color: gold;
+  display: none;
+}
+.modal span{
+  color: red;
+}
+
+
